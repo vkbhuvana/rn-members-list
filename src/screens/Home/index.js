@@ -1,11 +1,8 @@
 import React from 'react';
 import {
   Text,
-  SafeAreaView,
-  Button,
   FlatList,
   Linking,
-  StyleSheet,
   View,
   Image,
   TouchableOpacity,
